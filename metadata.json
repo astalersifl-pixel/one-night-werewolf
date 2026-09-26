@@ -1,0 +1,6 @@
+{
+  "name": "ワンナイト人狼 Online",
+  "description": "スマホやPCで手軽に遊べるリアルタイム通信型ワンナイト人狼ブラウザゲーム。合言葉やURL共有で友達と即プレイ可能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
